@@ -20,5 +20,9 @@ namespace WApplication1
         public int func34(){
             return 0;
         }
+        public int func41()
+        {
+            return 0;
+        }
     }
 }
