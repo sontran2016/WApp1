@@ -18,11 +18,11 @@ namespace WApplication1
             // x1
         }
         public int func30(){
-            return 0;
+            return 1;
         }
         public int func41()
         {
-            return 0;
+            return 1;
         }
     }
 }
