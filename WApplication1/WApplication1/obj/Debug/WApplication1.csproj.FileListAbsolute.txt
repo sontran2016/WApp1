@@ -1,0 +1,9 @@
+D:\WApp1\WApplication1\WApplication1\bin\Debug\WApplication1.exe.config
+D:\WApp1\WApplication1\WApplication1\bin\Debug\WApplication1.exe
+D:\WApp1\WApplication1\WApplication1\bin\Debug\WApplication1.pdb
+D:\WApp1\WApplication1\WApplication1\obj\Debug\WApplication1.csprojResolveAssemblyReference.cache
+D:\WApp1\WApplication1\WApplication1\obj\Debug\WApplication1.Form1.resources
+D:\WApp1\WApplication1\WApplication1\obj\Debug\WApplication1.Properties.Resources.resources
+D:\WApp1\WApplication1\WApplication1\obj\Debug\WApplication1.csproj.GenerateResource.Cache
+D:\WApp1\WApplication1\WApplication1\obj\Debug\WApplication1.exe
+D:\WApp1\WApplication1\WApplication1\obj\Debug\WApplication1.pdb
