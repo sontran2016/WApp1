@@ -17,5 +17,8 @@ namespace WApplication1
             return c;   // c = 3.4
             // x1
         }
+        public int func3(){
+            return 0;
+        }
     }
 }
