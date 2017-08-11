@@ -22,7 +22,7 @@ namespace WApplication1
         }
         public int func41()
         {
-            return 1;
+            return 0;
         }
     }
 }
