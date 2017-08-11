@@ -14,7 +14,7 @@ namespace WApplication1
             a = 1;
             b = 2;
             int c = a + b;
-            return c;   // c = 3.1
+            return c;   // c = 3.2
         }
     }
 }
