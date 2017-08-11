@@ -17,7 +17,7 @@ namespace WApplication1
             return c;   // c = 3.4
             // x1
         }
-        public int func31(){
+        public int func32(){
             return 1;
         }
         public int func41()
